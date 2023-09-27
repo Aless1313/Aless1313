@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning communication protocols for IoT and AI  
   
 
-- 🔭 Hobbies: astrophotography, technical support and scientific dissemination  
+- 🔭 Hobbies: astrophotography, technical support and sscientific divulgation 
   
 
 - ⚡IEEE President Robotics and Automation Society UANL Student Chapter  

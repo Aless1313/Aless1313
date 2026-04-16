@@ -1,22 +1,18 @@
   
 
-### <div align="center">I'm Alessandro, a IoT developer 🚀</div>  
+### <div align="center">I'm Alessandro, an R&D and IoT developer 🚀  </div>  
   
 
-- ⚡ I’m currently working on IoT apps and Web Development  
+- ⚡Working on embedded systems, industrial IoT, and web-based tools  
   
 
-- 🌱 I’m currently learning communication protocols for IoT and AI  
+- 🌱 Learning more about communication protocols, AI, and connected technologies  
   
 
-- 🔭 Hobbies: astrophotography, technical support and sscientific divulgation 
+- 🔭 Interested in astrophotography, technical support, and science communication  
   
 
-- ⚡IEEE President Robotics and Automation Society UANL Student Chapter  
-  
-
-- 🤖 Member of bisonbots FCFM robotics club  
-  
+- 🤖 Building practical solutions for automation and real-world engineering challenges
 
 <br/>  
 

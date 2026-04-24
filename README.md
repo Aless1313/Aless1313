@@ -59,31 +59,4 @@
 ![Odoo](https://img.shields.io/badge/Odoo-Customization-purple?style=flat-square)
 ![Technical Support](https://img.shields.io/badge/Industrial-Technical%20Support-lightblue?style=flat-square)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aless1313&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rfeej935qldmi8didl7se7we9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0033ff&bar_color_cover=true" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Aless1313&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/AlessandroElizondo" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
